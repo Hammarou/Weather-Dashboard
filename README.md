@@ -69,7 +69,7 @@ Weather_Dashboard/
 
 ## GitHub Deployment Location (HTTPS)
 
-
+https://hammarou.github.io/Weather-Dashboard/
 
 
 ## GitHub Repository Location
